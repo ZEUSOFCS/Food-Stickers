@@ -14,9 +14,9 @@ For example, a customer could place an order and pay for her morning cappuccino 
 
 ![bstore](https://cloud.githubusercontent.com/assets/19171147/24332427/5ca1369e-1214-11e7-8d35-b7bab3b7a515.png)
 
-# Powered By:
-![octokul](https://cloud.githubusercontent.com/assets/19171147/24332456/d8cf23ca-1214-11e7-8069-41c9a4938b24.png)
+# Sponsorship [Event]
 
+![major_league_hacking_logo svg](https://cloud.githubusercontent.com/assets/19171147/24332479/32918e48-1215-11e7-914d-b59a077fbe13.png)
 
 
 
