@@ -1,4 +1,8 @@
-# Food-Stickers
+[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/ages-12.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/compatibility-betamax.svg)](http://forthebadge.com) 
+[![forthebadge](http://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
+
 ![food sticker icon 3x](https://cloud.githubusercontent.com/assets/19171147/24332382/addbb68e-1213-11e7-92ba-7251640b6f04.png)
 
 ## Description
