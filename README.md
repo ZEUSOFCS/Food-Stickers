@@ -18,6 +18,6 @@ For example, a customer could place an order and pay for her morning cappuccino 
 
 ![bstore](https://cloud.githubusercontent.com/assets/19171147/24332427/5ca1369e-1214-11e7-8d35-b7bab3b7a515.png)
 
-#Developers
+# Developers
 
 
