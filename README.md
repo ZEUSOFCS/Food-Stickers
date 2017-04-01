@@ -20,4 +20,6 @@ For example, a customer could place an order and pay for her morning cappuccino 
 
 # Developers
 
+# UX / UI Designer
+
 
